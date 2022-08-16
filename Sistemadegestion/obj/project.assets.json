@@ -2433,11 +2433,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\Usuario\\CoderHouse\\Sistemadegestion\\Sistemadegestion\\Sistemadegestion.csproj",
+      "projectUniqueName": "D:\\Users\\Usuario\\CoderHouse\\Sistemadegestion\\Sistemadegestion\\proyectoFinal-CoderHouse\\Sistemadegestion\\Sistemadegestion.csproj",
       "projectName": "Sistemadegestion",
-      "projectPath": "D:\\Users\\Usuario\\CoderHouse\\Sistemadegestion\\Sistemadegestion\\Sistemadegestion.csproj",
+      "projectPath": "D:\\Users\\Usuario\\CoderHouse\\Sistemadegestion\\Sistemadegestion\\proyectoFinal-CoderHouse\\Sistemadegestion\\Sistemadegestion.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\Usuario\\CoderHouse\\Sistemadegestion\\Sistemadegestion\\obj\\",
+      "outputPath": "D:\\Users\\Usuario\\CoderHouse\\Sistemadegestion\\Sistemadegestion\\proyectoFinal-CoderHouse\\Sistemadegestion\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

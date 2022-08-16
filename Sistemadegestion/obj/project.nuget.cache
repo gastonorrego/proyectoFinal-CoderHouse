@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "grOJjt+BR09zYjzDLOx1H/2d9NzefU1kVbkJbjsLfbXkd/b9SL4r4yC5WtHYOrWshn/Uxi3g0K9rQk/MooEAKQ==",
+  "dgSpecHash": "VcyBpjBqHue2APtb8TobG7OMREk1q8aMqc8u+S4+HywcieNDJx+5qf+dE93JthPXI90AvWgY8jnYA3zoFPbcQg==",
   "success": true,
-  "projectFilePath": "D:\\Users\\Usuario\\CoderHouse\\Sistemadegestion\\Sistemadegestion\\Sistemadegestion.csproj",
+  "projectFilePath": "D:\\Users\\Usuario\\CoderHouse\\Sistemadegestion\\Sistemadegestion\\proyectoFinal-CoderHouse\\Sistemadegestion\\Sistemadegestion.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
